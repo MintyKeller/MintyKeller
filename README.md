@@ -43,13 +43,14 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!---
 ## 📊 Minhas estatísticas
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MintKeller&show_icons=true&theme=tokyonight&rank_icon=github" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintKeller&layout=compact&theme=tokyonight" />
 
 </p>
+-->
 
 
 
