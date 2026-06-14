@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">🌿 oieee eu sou a Talita!</h1>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0fd28f8-abf6-47b9-b9ff-6a586b929d1a" width="350" alt="Meowth na cachoeira"/>
+</p>
 <p align="center">
   💻 Desenvolvedora em formação •  FILHA DE DEV, DEV JUNIOR É •
   📍 RS, Brasil •  
