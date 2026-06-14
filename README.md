@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9560e59-f93f-4ed7-8c92-0da542791cd7"width="350" alt="Meowth na cachoeira"/>
-</p>
-
-
-
-<h1 align="center">🌿 oieee eu sou a Talita!</h1>
+--><h1 align="center">🌿 oieee eu sou a Talita!</h1>
 
 <p align="center">
   💻 Desenvolvedora em formação •  FILHA DE DEV, DEV JUNIOR É •
@@ -54,19 +47,17 @@ Here are some ideas to get you started:
 ---
 
 ## 🎵 a playlist for you!
-## 🎵 a playlist for you!
 <p align="center">
-  <a href="https://open.spotify.com/playlist/4Ge03TO5c1WWeJZObv2Ifz?utm_source=generator" target="_blank">
-
- <img src="https://github.com/user-attachments/assets/4271ed6a-e072-41ee-a472-7ef33744efcf" width="300" alt="Minha Playlist no Spotify" style="border-radius: 12px;"/>
-    
-    <br/>
+  <a href="https://open.spotify.com/playlist/4Ge03TO5c1WWeJZOby2Ifz?utm_source=generator" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4271ed6a-e072-41ee-a472-7ef33744efcf" width="450" alt="Minha Playlist coding with: no Spotify" style="border-radius: 12px;"/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/Ouvir_no_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 ## 📬 Como me encontrar
 📧 talitakeller8@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/talita-de-souza-keller-661256362/)
+🔗 [LinkedIn](https://www.linkedin.com/in/talita-de-souza-keller-661256362/)  
 🐍 [GitHub](https://github.com/MintKeller)
-
