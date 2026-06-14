@@ -60,10 +60,14 @@ Here are some ideas to get you started:
 
 </p>
 -->
-
+## 🎵 a platlist for you!
+<p align="center">
+  <iframe src="http://googleusercontent.com/spotify.com/4" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius:12px;"></iframe>
+</p>
 
 
 ## 📬 Como me encontrar
 📧 talitakeller8@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/talita-de-souza-keller/](https://www.linkedin.com/in/talita-de-souza-keller-661256362/)
 🐍 [GitHub](https://github.com/MintKeller)  
+
