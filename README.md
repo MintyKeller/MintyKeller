@@ -54,14 +54,16 @@ Here are some ideas to get you started:
 ---
 
 ## 🎵 a playlist for you!
+## 🎵 a playlist for you!
 <p align="center">
   <a href="https://open.spotify.com/playlist/4Ge03TO5c1WWeJZObv2Ifz?utm_source=generator" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b0fd28f8-abf6-47b9-b9ff-6a586b929d1a" width="300" alt="Minha Playlist no Spotify" style="border-radius: 12px;"/>
+
+ <img src="https://github.com/user-attachments/assets/4271ed6a-e072-41ee-a472-7ef33744efcf" width="300" alt="Minha Playlist no Spotify" style="border-radius: 12px;"/>
+    
     <br/>
     <img src="https://img.shields.io/badge/Ouvir_no_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
-
 ---
 ## 📬 Como me encontrar
 📧 talitakeller8@gmail.com  
