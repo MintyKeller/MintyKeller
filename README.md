@@ -60,10 +60,9 @@ Here are some ideas to get you started:
 
 </p>
 -->
-## 🎵 a platlist for you!
-<p align="center">
-  <iframe src="http://googleusercontent.com/spotify.com/4" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius:12px;"></iframe>
-</p>
+
+## 🎵 a playlist for you!
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcc93F8R9as" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ## 📬 Como me encontrar
