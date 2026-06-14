@@ -54,7 +54,13 @@ Here are some ideas to get you started:
 ---
 
 ## 🎵 a playlist for you!
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcc93F8R9as" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4Ge03TO5c1WWeJZObv2Ifz?utm_source=generator" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b0fd28f8-abf6-47b9-b9ff-6a586b929d1a" width="300" alt="Minha Playlist no Spotify" style="border-radius: 12px;"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Ouvir_no_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 
 ---
 ## 📬 Como me encontrar
