@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 🐍 [GitHub](https://github.com/MintKeller)
 
 ## 📊 Minhas Linguagens Mais Usadas
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintyKeller&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Talita" />
 </p>
