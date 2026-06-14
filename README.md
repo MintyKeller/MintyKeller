@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7479e914-327d-45e3-9485-c1f81a072757"width="350" alt="Meowth na cachoeira"/>
+--><p align="center">
+  <img src="https://github.com/user-attachments/assets/b0fd28f8-abf6-47b9-b9ff-6a586b929d1a" width="350" alt="Meowth na cachoeira"/>
 </p>
-
-
-
 
 <h1 align="center">🌿 oieee eu sou a Talita!</h1>
 
@@ -51,21 +47,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
----
-<!---
-## 📊 Minhas estatísticas
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MintKeller&show_icons=true&theme=tokyonight&rank_icon=github" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintKeller&layout=compact&theme=tokyonight" />
 
-</p>
--->
+---
 
 ## 🎵 a playlist for you!
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4Ge03TO5c1WWeJZObv2Ifz?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcc93F8R9as" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+---
 ## 📬 Como me encontrar
 📧 talitakeller8@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/talita-de-souza-keller/](https://www.linkedin.com/in/talita-de-souza-keller-661256362/)
-🐍 [GitHub](https://github.com/MintKeller)  
+🔗 [LinkedIn](https://www.linkedin.com/in/talita-de-souza-keller-661256362/)
+🐍 [GitHub](https://github.com/MintKeller)
 
