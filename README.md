@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🎵 a playlist for you!
-<p align="center">
-  <a href="https://open.spotify.com/playlist/4Ge03TO5c1WWeJZOby2Ifz?utm_source=generator" target="_blank">
+<p align="center"> 
+  <a href="https://open.spotify.com/playlist/4Ge03TO5c1WWeJZObv2Ifz?si=d5352936523f43f2&nd=1&dlsi=547ec57d98184d5a" target="_blank">
     <img src="https://github.com/user-attachments/assets/4271ed6a-e072-41ee-a472-7ef33744efcf" width="450" alt="Minha Playlist coding with: no Spotify" style="border-radius: 12px;"/>
     <br/><br/>
     <img src="https://img.shields.io/badge/Ouvir_no_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
