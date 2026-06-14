@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><p align="center">
-  <img src="https://github.com/user-attachments/assets/b0fd28f8-abf6-47b9-b9ff-6a586b929d1a" width="350" alt="Meowth na cachoeira"/>
+-->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9560e59-f93f-4ed7-8c92-0da542791cd7"width="350" alt="Meowth na cachoeira"/>
 </p>
+
+
 
 <h1 align="center">🌿 oieee eu sou a Talita!</h1>
 
