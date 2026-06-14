@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img src="https://github.com/user-attachments/assets/15a5a95a-3d8d-4375-85e0-ce450368316e" width="350" alt="Meowth na cachoeira"/>
+  <img src="https://github.com/user-attachments/assets/7479e914-327d-45e3-9485-c1f81a072757"width="350" alt="Meowth na cachoeira"/>
 </p>
+
 
 
 
