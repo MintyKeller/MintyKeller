@@ -67,3 +67,8 @@ Here are some ideas to get you started:
 📧 talitakeller8@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/talita-de-souza-keller-661256362/)  
 🐍 [GitHub](https://github.com/MintKeller)
+
+## 📊 Minhas Linguagens Mais Usadas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintKeller&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Talita" />
+</p>
